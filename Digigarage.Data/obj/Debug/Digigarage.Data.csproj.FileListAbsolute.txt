@@ -1,0 +1,32 @@
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage.Data\bin\Debug\Digigarage.Data.dll.config
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage.Data\bin\Debug\Digigarage.Data.dll
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage.Data\bin\Debug\Digigarage.Data.pdb
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage.Data\bin\Debug\AutoMapper.dll
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage.Data\bin\Debug\Digigarage.BusinessEntities.dll
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage.Data\bin\Debug\EntityFramework.dll
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage.Data\bin\Debug\Digigarage.BusinessEntities.pdb
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage.Data\bin\Debug\AutoMapper.xml
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage.Data\bin\Debug\EntityFramework.xml
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage.Data\obj\Debug\Digigarage.Data.csprojAssemblyReference.cache
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage.Data\obj\Debug\Digigarage.Data.csproj.CoreCompileInputs.cache
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage.Data\obj\Debug\Digigarage.Data.csproj.CopyComplete
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage.Data\obj\Debug\Digigarage.Data.dll
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage.Data\obj\Debug\Digigarage.Data.pdb
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage.Data\obj\Debug\Digigarage.Data.csprojAssemblyReference.cache
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage.Data\obj\Debug\Digigarage.Data.csproj.CoreCompileInputs.cache
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage.Data\obj\Debug\Digigarage.Data.dll
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage.Data\obj\Debug\Digigarage.Data.pdb
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage.Data\bin\Debug\Digigarage.Data.dll.config
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage.Data\bin\Debug\Digigarage.Data.dll
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage.Data\bin\Debug\Digigarage.Data.pdb
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage.Data\bin\Debug\AutoMapper.dll
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage.Data\bin\Debug\Digigarage.BusinessEntities.dll
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage.Data\bin\Debug\EntityFramework.dll
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage.Data\bin\Debug\Digigarage.BusinessEntities.pdb
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage.Data\bin\Debug\AutoMapper.xml
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage.Data\bin\Debug\EntityFramework.xml
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage.Data\obj\Debug\Digigarage.Data.csproj.CopyComplete

@@ -1,0 +1,200 @@
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\Digigarage.dll.config
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\Digigarage.dll
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\Digigarage.pdb
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\roslyn\csc.exe
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\roslyn\csc.exe.config
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\roslyn\csc.rsp
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\roslyn\csi.exe
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\roslyn\csi.exe.config
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\roslyn\csi.rsp
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\roslyn\System.AppContext.dll
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\roslyn\System.Console.dll
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\roslyn\System.IO.Compression.dll
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\roslyn\System.Net.Http.dll
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\roslyn\System.Net.Sockets.dll
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\roslyn\System.ValueTuple.dll
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\roslyn\System.Xml.XPath.dll
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\roslyn\vbc.exe
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\roslyn\vbc.exe.config
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\roslyn\vbc.rsp
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\roslyn\VBCSCompiler.exe
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\Antlr3.Runtime.dll
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\AutoMapper.dll
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\Digigarage.Business.dll
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\Digigarage.BusinessEntities.dll
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\Digigarage.Data.dll
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\EntityFramework.dll
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\EntityFramework.SqlServer.dll
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\Newtonsoft.Json.dll
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\System.Web.Helpers.dll
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\System.Web.Mvc.dll
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\System.Web.Optimization.dll
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\System.Web.Razor.dll
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\System.Web.WebPages.Deployment.dll
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\System.Web.WebPages.dll
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\System.Web.WebPages.Razor.dll
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\Unity.Abstractions.dll
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\Unity.Container.dll
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\Unity.Mvc5.dll
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\WebGrease.dll
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\Digigarage.BusinessEntities.pdb
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\Digigarage.Business.pdb
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\Digigarage.Data.pdb
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\Digigarage.Data.dll.config
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\AutoMapper.xml
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\EntityFramework.xml
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\EntityFramework.SqlServer.xml
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\System.Web.Helpers.xml
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\System.Web.Mvc.xml
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\System.Web.Optimization.xml
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\System.Web.Razor.xml
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\System.Web.WebPages.xml
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\System.Web.WebPages.Deployment.xml
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\System.Web.WebPages.Razor.xml
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\Newtonsoft.Json.xml
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\Unity.Abstractions.pdb
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\Unity.Container.pdb
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\Antlr3.Runtime.pdb
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\obj\Debug\Digigarage.csprojAssemblyReference.cache
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\obj\Debug\Digigarage.csproj.CoreCompileInputs.cache
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\obj\Debug\Digigarage.csproj.CopyComplete
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\obj\Debug\Digigarage.dll
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\obj\Debug\Digigarage.pdb
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\Digigarage.dll.config
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\Digigarage.dll
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\Digigarage.pdb
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\roslyn\csc.exe
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\roslyn\csc.exe.config
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\roslyn\csc.rsp
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\roslyn\csi.exe
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\roslyn\csi.exe.config
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\roslyn\csi.rsp
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\roslyn\System.AppContext.dll
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\roslyn\System.Console.dll
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\roslyn\System.IO.Compression.dll
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\roslyn\System.Net.Http.dll
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\roslyn\System.Net.Sockets.dll
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\roslyn\System.ValueTuple.dll
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\roslyn\System.Xml.XPath.dll
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\roslyn\vbc.exe
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\roslyn\vbc.exe.config
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\roslyn\vbc.rsp
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\roslyn\VBCSCompiler.exe
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\Antlr3.Runtime.dll
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\AutoMapper.dll
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\Digigarage.Business.dll
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\Digigarage.BusinessEntities.dll
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\Digigarage.Data.dll
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\EntityFramework.dll
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\EntityFramework.SqlServer.dll
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\Newtonsoft.Json.dll
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\System.Web.Helpers.dll
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\System.Web.Mvc.dll
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\System.Web.Optimization.dll
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\System.Web.Razor.dll
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\System.Web.WebPages.Deployment.dll
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\System.Web.WebPages.dll
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\System.Web.WebPages.Razor.dll
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\Unity.Abstractions.dll
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\Unity.Container.dll
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\Unity.Mvc5.dll
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\WebGrease.dll
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\Digigarage.BusinessEntities.pdb
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\Digigarage.Business.pdb
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\Digigarage.Data.pdb
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\Digigarage.Data.dll.config
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\AutoMapper.xml
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\EntityFramework.xml
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\EntityFramework.SqlServer.xml
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\System.Web.Helpers.xml
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\System.Web.Mvc.xml
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\System.Web.Optimization.xml
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\System.Web.Razor.xml
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\System.Web.WebPages.xml
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\System.Web.WebPages.Deployment.xml
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\System.Web.WebPages.Razor.xml
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\Newtonsoft.Json.xml
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\Unity.Abstractions.pdb
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\Unity.Container.pdb
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\Antlr3.Runtime.pdb
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\obj\Debug\Digigarage.csprojAssemblyReference.cache
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\obj\Debug\Digigarage.csproj.CoreCompileInputs.cache
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\obj\Debug\Digigarage.csproj.CopyComplete
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\obj\Debug\Digigarage.dll
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage\obj\Debug\Digigarage.pdb

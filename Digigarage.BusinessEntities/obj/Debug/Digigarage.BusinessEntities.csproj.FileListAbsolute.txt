@@ -1,0 +1,11 @@
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage.BusinessEntities\bin\Debug\Digigarage.BusinessEntities.dll
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage.BusinessEntities\bin\Debug\Digigarage.BusinessEntities.pdb
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage.BusinessEntities\obj\Debug\Digigarage.BusinessEntities.csproj.CoreCompileInputs.cache
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage.BusinessEntities\obj\Debug\Digigarage.BusinessEntities.dll
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage.BusinessEntities\obj\Debug\Digigarage.BusinessEntities.pdb
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage.BusinessEntities\obj\Debug\Digigarage.BusinessEntities.csprojAssemblyReference.cache
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage.BusinessEntities\bin\Debug\Digigarage.BusinessEntities.dll
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage.BusinessEntities\bin\Debug\Digigarage.BusinessEntities.pdb
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage.BusinessEntities\obj\Debug\Digigarage.BusinessEntities.csproj.CoreCompileInputs.cache
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage.BusinessEntities\obj\Debug\Digigarage.BusinessEntities.dll
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage.BusinessEntities\obj\Debug\Digigarage.BusinessEntities.pdb

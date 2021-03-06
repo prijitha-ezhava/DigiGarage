@@ -1,0 +1,86 @@
+﻿@model Digigarage.BusinessEntities.VehicleViewModel
+
+@{ ViewBag.Title = "Details"; }
+
+<h3 style="font-family:Georgia, 'Times New Roman', Times, serif; ">Vehicle Details</h3>
+
+<style>
+    a:link {
+        color: white;
+    }
+</style>
+
+<hr />
+<table class="table" style="width:50%; border:solid; background-color:#7FAAC7; color:honeydew; border-color : #2E548A; margin-left:20%;">
+    <thead>
+        <tr style="border:inset;  width:20px;">
+            <td width="30px" style="border:inherit;">
+                @Html.DisplayNameFor(model => model.LicencePlate)
+            </td>
+            <td>
+                @Html.DisplayFor(model => model.LicencePlate)
+            </td>
+        </tr>
+
+        <tr style="border:inset;  width:20px;">
+            <td width="30px" style="border:inherit;">
+                @Html.DisplayNameFor(model => model.FuelType)
+            </td>
+            <td>
+                @Html.DisplayFor(model => model.FuelType)
+            </td>
+        </tr>
+
+        <tr style="border:inset;  width:20px;">
+            <td width="30px" style="border:inherit;">
+                @Html.DisplayNameFor(model => model.Brand)
+            </td>
+            <td>
+                @Html.DisplayFor(model => model.Brand)
+            </td>
+        </tr>
+
+        <tr style="border:inset;  width:20px;">
+            <td width="30px" style="border:inherit;">
+                @Html.DisplayNameFor(model => model.Model)
+            </td>
+            <td>
+                @Html.DisplayFor(model => model.Model)
+            </td>
+        </tr>
+
+        <tr style="border:inset;  width:20px;">
+            <td width="30px" style="border:inherit;">
+                @Html.DisplayNameFor(model => model.RegistraionDate)
+            </td>
+            <td>
+                @Html.DisplayFor(model => model.RegistraionDate)
+            </td>
+        </tr>
+
+        <tr style="border:inset;  width:20px;">
+            <td width="30px" style="border:inherit;">
+                @Html.DisplayNameFor(model => model.ChassiNo)
+            </td>
+            <td>
+                @Html.DisplayFor(model => model.ChassiNo)
+            </td>
+        </tr>
+
+
+
+        <tr style="border:inset;  width:20px;">
+            <td width="30px" style="border:inherit;">
+                @Html.DisplayNameFor(model => model.Customer.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(model => model.Customer.Name)
+            </td>
+        </tr>
+
+    </thead>
+</table>
+<p>
+    <a href="@Url.Action("Edit","Vehicles", new { id = Model.VehicleId})" class="btn" style="background-color:#f48c06; color:white; padding: 3px 4px; margin-left:35%;"><i class="fa fa-edit"></i>Edit</a>
+    <a href="@Url.Action("Index","Vehicles")" class="btn" style="background-color:#55a630; color:white; padding: 3px 4px;"><i class="fa fa-arrow-left"></i>Back to List</a>
+</p>

@@ -1,0 +1,70 @@
+﻿@model Digigarage.BusinessEntities.MechanicViewModel
+
+@{ ViewBag.Title = "Details"; }
+
+<h3 style="font-family:Georgia, 'Times New Roman', Times, serif; ">Mechanic Details</h3>
+
+<style>
+    a:link {
+        color: white;
+    }
+</style>
+
+
+
+
+<hr />
+<table class="table" style="width:50%; border:solid; background-color:#7FAAC7; color:honeydew; border-color : #2E548A; margin-left:20%;">
+    <thead>
+        <tr style="border:inset;  width:20px;">
+            <td width="30px" style="border:inherit;">
+                @Html.DisplayNameFor(model => model.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(model => model.Name)
+            </td>
+        </tr>
+        <tr style="border:inset;">
+            <td width="30px" style="border:inherit;">
+                @Html.DisplayNameFor(model => model.MobileNo)
+            </td>
+            <td>
+                @Html.DisplayFor(model => model.MobileNo)
+            </td>
+
+        </tr>
+        <tr style="border:inset;">
+            <td style="border:inherit;">
+                @Html.DisplayNameFor(model => model.EmailId)
+            </td>
+            <td style="pointer-events: none;">
+                @Html.DisplayFor(model => model.EmailId)
+            </td>
+        </tr>
+
+        <tr style="border:inset;">
+            <td width="30px" style="border:inherit;">
+                @Html.DisplayNameFor(model => model.Brand)
+            </td>
+            <td>
+                @Html.DisplayFor(model => model.Brand)
+            </td>
+
+        </tr>
+
+        <tr style="border:inset;">
+            <td width="30px" style="border:inherit;">
+                @Html.DisplayNameFor(model => model.Department.Department1)
+            </td>
+            <td>
+                @Html.DisplayFor(model => model.Department.Department1)
+            </td>
+
+        </tr>
+    </thead>
+</table>
+
+<p>
+    <a href="@Url.Action("Edit","Mechanics", new { id = Model.MechanicId})" class="btn" style="background-color:#f48c06; color:white; padding: 3px 4px; margin-left:35%;"><i class="fa fa-edit"></i>Edit</a>
+    <a href="@Url.Action("Index","Mechanics")" class="btn" style="background-color:#55a630; color:white; padding: 3px 4px;"><i class="fa fa-arrow-left"></i>Back to List</a>
+</p>

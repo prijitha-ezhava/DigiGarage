@@ -1,0 +1,19 @@
+﻿using Digigarage.BusinessEntities;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Digigarage.Business.Interface
+{
+    public interface IServiceManager
+    {
+        ServiceViewModel GetService(int? Id);
+        IEnumerable<ServiceViewModel> GetAllService();
+        string CreateService(ServiceViewModel model);
+        string UpdateService(ServiceViewModel model);
+        string DeleteService(int? Id);
+        IEnumerable<StatusOfBookingViewModel> GetAllServiceStatus();
+    }
+}

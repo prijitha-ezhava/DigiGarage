@@ -1,0 +1,67 @@
+﻿@model Digigarage.BusinessEntities.LoginViewModel
+@{
+    ViewBag.Title = "Login";
+}
+@{ Layout = null; }
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>DigiGarage</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimal-ui">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="description" content="Datta Able Bootstrap admin template made using Bootstrap 4 and it has huge amount of ready made feature, UI components, pages which completely fulfills any dashboard needs." />
+    <meta name="keywords" content="admin templates, bootstrap admin templates, bootstrap 4, dashboard, dashboard templets, sass admin templets, html admin templates, responsive, bootstrap admin templates free download,premium bootstrap admin templates, datta able, datta able bootstrap admin template, free admin theme, free dashboard template" />
+    <meta name="author" content="CodedThemes" />
+
+    <!-- Favicon icon -->
+    <link rel="icon" href="~/assets/images/images.jpg" type="image/x-icon">
+    <!-- fontawesome icon -->
+    <link rel="stylesheet" href="~/assets/fonts/fontawesome/css/fontawesome-all.min.css">
+    <!-- vendor css -->
+    <link rel="stylesheet" href="~/assets/css/style.css">
+
+</head>
+ @*style="background-color: #457b9d"*@
+<body style="background-color: #BBDAF1">
+    <div class="auth-wrapper">
+        <div style="align-content:center;padding-top:7%;">
+            <div style="height:100px;margin-bottom:50px">
+                <h1 style="font-size:45px; color: #184E77; text-align :center; font-weight:800; font-family: cursive">
+                    <img src="~/assets/images/images.jpg" height="75" width="75">
+                    DigiGarage
+                </h1>
+            </div>
+            <div class="card">
+                <div class="card-body text-center">
+                    @using (Html.BeginForm("Login", "Login", new { ReturnUrl = ViewBag.ReturnUrl }, FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+                    {
+                        @Html.AntiForgeryToken()
+                        <div class="mb-4">
+                            <i class="feather icon-unlock auth-icon"></i>
+                        </div>
+                        <h3 class="mb-4" style="color:white;">Login</h3>
+                        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                        <div class="form-group">
+                            @Html.EditorFor(m => m.emailid, new { htmlAttributes = new { @class = "form-control", @placeholder = "Email Id" } })
+                            @Html.ValidationMessageFor(m => m.emailid, "", new { htmlAttributes = new { @class = "text-danger" } })
+                        </div>
+                        <div class="form-group">
+                            @Html.PasswordFor(m => m.password, new { @class = "form-control", @placeholder = "Password" })
+                            @Html.ValidationMessageFor(m => m.password, "", new { @class = "text-danger" })
+                        </div>
+
+                        <button class="btn btn-danger shadow-2 mb-4">Login</button>}
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <!-- Required Js -->
+    <script src="~/assets/js/vendor-all.min.js"></script>
+    <script src="~/assets/plugins/bootstrap/js/bootstrap.min.js"></script>
+
+</body>
+</html>

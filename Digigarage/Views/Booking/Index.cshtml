@@ -1,0 +1,81 @@
+﻿@model IEnumerable<Digigarage.BusinessEntities.BookingViewModel>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h3 style="font-family:Georgia, 'Times New Roman', Times, serif; ">Booking List</h3>
+<br />
+<p>
+    <a href="@Url.Action("Create","Booking")" class="btn btn-glow-secondary"><i class="fa fa-plus"></i>  Add New Booking</a>
+</p>
+
+    <table class="table table-striped">
+        <thead style="background-color : #355070; color:white;">
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Vehicle.Customer.Name)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.BookingDate)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Service.ServiceName)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.StatusOfBooking.Status)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Vehicle.LicencePlate)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Department.Department1)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Description)
+                </th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody style="color : black; font-size: medium;">
+
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Vehicle.Customer.Name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.BookingDate)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Service.ServiceName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.StatusOfBooking.Status)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Vehicle.LicencePlate)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Department.Department1)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Description)
+                    </td>
+                    <td>
+                        <a href="@Url.Action("Details","Booking", new { id = item.BookingId})" class="btn btn-primary" style="background-color:#023e8a; color:white; padding: 3px 4px;"><i class="fa fa-list"></i>Details</a>
+                        @if (item.Status == 1)
+                        {
+                            <a href="@Url.Action("Edit","Booking", new { id = item.BookingId})" class="btn btn-primary" style="background-color:#023e8a; color:white; padding: 3px 4px;"><i class="fa fa-edit"></i>Edit</a>
+                        }
+                        @if (item.Status == 3)
+                        {
+                            <a href="@Url.Action("BillGenerate","Booking", new { id = item.BookingId})" class="btn btn-primary" style="background-color:#f48c06; color:white; padding: 3px 4px;"><i class="fa fa-check-circle"></i>Bill Generate</a>
+                        }
+
+                    </td>
+                </tr>
+            }
+            </tbody>
+    </table>

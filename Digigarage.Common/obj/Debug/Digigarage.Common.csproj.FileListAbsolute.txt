@@ -1,0 +1,11 @@
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage.Common\bin\Debug\Digigarage.Common.dll
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage.Common\bin\Debug\Digigarage.Common.pdb
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage.Common\obj\Debug\Digigarage.Common.csproj.CoreCompileInputs.cache
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage.Common\obj\Debug\Digigarage.Common.dll
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage.Common\obj\Debug\Digigarage.Common.pdb
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage.Common\obj\Debug\Digigarage.Common.csprojAssemblyReference.cache
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage.Common\bin\Debug\Digigarage.Common.dll
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage.Common\bin\Debug\Digigarage.Common.pdb
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage.Common\obj\Debug\Digigarage.Common.csproj.CoreCompileInputs.cache
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage.Common\obj\Debug\Digigarage.Common.dll
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage.Common\obj\Debug\Digigarage.Common.pdb

@@ -1,0 +1,50 @@
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage.Business\bin\Debug\Digigarage.Business.dll
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage.Business\bin\Debug\Digigarage.Business.pdb
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage.Business\bin\Debug\AutoMapper.dll
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage.Business\bin\Debug\Digigarage.BusinessEntities.dll
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage.Business\bin\Debug\Digigarage.Common.dll
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage.Business\bin\Debug\Digigarage.Data.dll
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage.Business\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage.Business\bin\Debug\Unity.Abstractions.dll
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage.Business\bin\Debug\Unity.Container.dll
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage.Business\bin\Debug\EntityFramework.dll
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage.Business\bin\Debug\Digigarage.BusinessEntities.pdb
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage.Business\bin\Debug\Digigarage.Common.pdb
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage.Business\bin\Debug\Digigarage.Data.pdb
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage.Business\bin\Debug\Digigarage.Data.dll.config
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage.Business\bin\Debug\AutoMapper.xml
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage.Business\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage.Business\bin\Debug\Unity.Abstractions.pdb
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage.Business\bin\Debug\Unity.Container.pdb
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage.Business\bin\Debug\EntityFramework.xml
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage.Business\obj\Debug\Digigarage.Business.csprojAssemblyReference.cache
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage.Business\obj\Debug\Digigarage.Business.csproj.CoreCompileInputs.cache
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage.Business\obj\Debug\Digigarage.Business.csproj.CopyComplete
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage.Business\obj\Debug\Digigarage.Business.dll
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage.Business\obj\Debug\Digigarage.Business.pdb
+C:\Users\akshayrajsinh.jadeja\Downloads\Digigarage-master\Digigarage.Business\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage.Business\bin\Debug\Digigarage.Business.dll
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage.Business\bin\Debug\Digigarage.Business.pdb
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage.Business\bin\Debug\AutoMapper.dll
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage.Business\bin\Debug\Digigarage.BusinessEntities.dll
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage.Business\bin\Debug\Digigarage.Common.dll
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage.Business\bin\Debug\Digigarage.Data.dll
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage.Business\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage.Business\bin\Debug\Unity.Abstractions.dll
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage.Business\bin\Debug\Unity.Container.dll
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage.Business\bin\Debug\EntityFramework.dll
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage.Business\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage.Business\bin\Debug\Digigarage.BusinessEntities.pdb
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage.Business\bin\Debug\Digigarage.Common.pdb
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage.Business\bin\Debug\Digigarage.Data.pdb
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage.Business\bin\Debug\Digigarage.Data.dll.config
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage.Business\bin\Debug\AutoMapper.xml
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage.Business\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage.Business\bin\Debug\Unity.Abstractions.pdb
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage.Business\bin\Debug\Unity.Container.pdb
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage.Business\bin\Debug\EntityFramework.xml
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage.Business\obj\Debug\Digigarage.Business.csprojAssemblyReference.cache
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage.Business\obj\Debug\Digigarage.Business.csproj.CoreCompileInputs.cache
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage.Business\obj\Debug\Digigarage.Business.csproj.CopyComplete
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage.Business\obj\Debug\Digigarage.Business.dll
+C:\Users\prijitha.ezhava\Gateway Project\Digigarage-Master-master\Digigarage.Business\obj\Debug\Digigarage.Business.pdb

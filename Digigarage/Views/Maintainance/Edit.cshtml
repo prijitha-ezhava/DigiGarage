@@ -1,0 +1,105 @@
+﻿@model Digigarage.BusinessEntities.BookingHistoryViewModel
+@{
+    ViewBag.Title = "Edit";
+}
+
+@{ Layout = null; }
+<!DOCTYPE html>
+<html>
+<head>
+    <!-- HTML5 Shim and Respond.js IE11 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 11]-->
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <!-- Meta -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimal-ui">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="description" content="Free Datta Able Admin Template come up with latest Bootstrap 4 framework with basic components, form elements and lots of pre-made layout options" />
+    <meta name="keywords" content="admin templates, bootstrap admin templates, bootstrap 4, dashboard, dashboard templets, sass admin templets, html admin templates, responsive, bootstrap admin templates free download,premium bootstrap admin templates, datta able, datta able bootstrap admin template, free admin theme, free dashboard template" />
+    <meta name="author" content="CodedThemes" />
+
+    <!-- Favicon icon -->
+    <link rel="icon" href="~/assets/images/images.jpg" type="image/x-icon">
+    <!-- fontawesome icon -->
+    <link rel="stylesheet" href="~/assets/fonts/fontawesome/css/fontawesome-all.min.css">
+    <!-- animation css -->
+    <link rel="stylesheet" href="~/assets/plugins/animation/css/animate.min.css">
+    <!-- vendor css -->
+    <link href="~/assets/css/style.css" rel="stylesheet" />
+</head>
+<body>
+    <div>
+        <div class="pcoded-wrapper">
+            <div class="pcoded-content">
+                <div class="pcoded-inner-content">
+                    <div class="main-body">
+                        <div class="page-wrapper">
+                            @using (Html.BeginForm())
+                            {
+                        @Html.AntiForgeryToken()
+
+                            <div class="form-horizontal" style="color: black">
+                                <h4>Assign Mechanic</h4>
+                                <hr />
+                                @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                                @Html.HiddenFor(model => model.BookingId)
+                                @Html.HiddenFor(model => model.DepartmentId)
+                                @Html.HiddenFor(model => model.HistoryId)
+
+
+
+                                <div class="form-group">
+                                    @Html.LabelFor(model => model.VehicleId, "Licence Plate", htmlAttributes: new { @class = "control-label col-md-2" })
+                                    <div class="col-md-10">
+                                        @Html.DropDownList("VehicleId", null, htmlAttributes: new { @class = "form-control", @readonly = "readonly" })
+                                        @Html.ValidationMessageFor(model => model.VehicleId, "", new { @class = "text-danger" })
+                                    </div>
+                                </div>
+
+                                <div class="form-group">
+                                    @Html.LabelFor(model => model.ServiceId, "Service", htmlAttributes: new { @class = "control-label col-md-2" })
+                                    <div class="col-md-10">
+                                        @Html.DropDownList("ServiceId", null, htmlAttributes: new { @class = "form-control", @readonly = "readonly" })
+                                        @Html.ValidationMessageFor(model => model.ServiceId, "", new { @class = "text-danger" })
+                                    </div>
+                                </div>
+
+
+
+                                <div class="form-group">
+                                    @Html.LabelFor(model => model.Mechanic.Name, htmlAttributes: new { @class = "control-label col-md-2" })
+                                    <div class="col-md-10">
+                                        @Html.DropDownList("MechanicId", null, "-- Select Mechanic --", htmlAttributes: new { @class = "form-control" })
+                                        @Html.ValidationMessageFor(model => model.MechanicId, "", new { @class = "text-danger" })
+                                    </div>
+                                </div>
+
+                                <div class="form-group">
+                                    <div class="col-md-offset-2 col-md-10">
+                                        <input type="submit" value="Submit" class="btn" style="background-color:#55a630; color:white; margin-left :45%; width : 140px;" />
+                                    </div>
+                                </div>
+                            </div>
+                                    }
+
+                            <div>
+                                <a href="@Url.Action("AdminIndex","Maintainance")" class="btn" style="background-color:#023e8a; color:white; padding: 3px 4px;"><i class="fa fa-arrow-left"></i>Back to List</a>
+                            </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <script src="~/assets/js/vendor-all.min.js"></script>
+            <script src="~/assets/plugins/bootstrap/js/bootstrap.min.js"></script>
+            <script src="~/assets/js/pcoded.min.js"></script>
+            @Scripts.Render("~/bundles/jquery")
+            @Scripts.Render("~/bundles/bootstrap")
+    </body>
+</html>
+
+

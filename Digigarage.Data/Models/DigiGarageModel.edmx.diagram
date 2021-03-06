@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="a57a83100c2e43d8a0a250519edcc9bd" Name="Diagram1">
+        <EntityTypeShape EntityType="DigiGarageModel.Booking" Width="1.5" PointX="3" PointY="4.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DigiGarageModel.BookingHistory" Width="1.5" PointX="5.25" PointY="9" IsExpanded="true" />
+        <EntityTypeShape EntityType="DigiGarageModel.Customer" Width="1.5" PointX="1.5" PointY="16.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DigiGarageModel.Department" Width="1.5" PointX="0.75" PointY="5.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DigiGarageModel.Login" Width="1.5" PointX="2.75" PointY="0.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DigiGarageModel.Mechanic" Width="1.5" PointX="3" PointY="13" IsExpanded="true" />
+        <EntityTypeShape EntityType="DigiGarageModel.Payment" Width="1.5" PointX="5.25" PointY="5.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DigiGarageModel.Role" Width="1.5" PointX="5" PointY="0.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DigiGarageModel.Service" Width="1.5" PointX="0.75" PointY="2.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DigiGarageModel.StatusOfBooking" Width="1.5" PointX="0.75" PointY="8.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DigiGarageModel.Vehicle" Width="1.5" PointX="0.75" PointY="11.125" IsExpanded="true" />
+        <AssociationConnector Association="DigiGarageModel.FK__Booking__Departm__36B12243" ManuallyRouted="false" />
+        <AssociationConnector Association="DigiGarageModel.FK__Booking__Service__37A5467C" ManuallyRouted="false" />
+        <AssociationConnector Association="DigiGarageModel.FK__Booking__Status__398D8EEE" ManuallyRouted="false" />
+        <AssociationConnector Association="DigiGarageModel.FK__Booking__Vehicle__38996AB5" ManuallyRouted="false" />
+        <AssociationConnector Association="DigiGarageModel.FK__Payment__Booking__3D5E1FD2" ManuallyRouted="false" />
+        <AssociationConnector Association="DigiGarageModel.FK__BookingHi__Depar__440B1D61" ManuallyRouted="false" />
+        <AssociationConnector Association="DigiGarageModel.FK__BookingHi__Mecha__46E78A0C" ManuallyRouted="false" />
+        <AssociationConnector Association="DigiGarageModel.FK__BookingHi__Servi__44FF419A" ManuallyRouted="false" />
+        <AssociationConnector Association="DigiGarageModel.FK__BookingHi__Vehic__45F365D3" ManuallyRouted="false" />
+        <AssociationConnector Association="DigiGarageModel.FK__Vehicles__Custom__33D4B598" ManuallyRouted="false" />
+        <AssociationConnector Association="DigiGarageModel.FK__Mechanic__DeptId__412EB0B6" ManuallyRouted="false" />
+        <AssociationConnector Association="DigiGarageModel.FK__Role__userId__29572725" ManuallyRouted="false" />
+        <AssociationConnector Association="DigiGarageModel.FK__Payment__Service__3E52440B" ManuallyRouted="false" />
+        <AssociationConnector Association="DigiGarageModel.FK__Payment__Vehicle__3C69FB99" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

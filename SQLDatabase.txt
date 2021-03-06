@@ -1,0 +1,175 @@
+CREATE TABLE [dbo].[Login] (
+    [Id]       INT           IDENTITY (1, 1) NOT NULL,
+    [emailid]  NVARCHAR (50) NOT NULL,
+    [password] NVARCHAR (50) NOT NULL,
+    PRIMARY KEY CLUSTERED ([Id] ASC)
+);
+
+
+
+Login
+
+1	admin		123456
+2	washing		123456
+3	repairing	123456
+4	maintainance	123456
+
+==========================================================================================
+
+CREATE TABLE [dbo].[Role] (
+    [Id]       INT           IDENTITY (1, 1) NOT NULL,
+    [userId]   INT           NOT NULL,
+    [UserRole] NVARCHAR (15) NULL,
+    PRIMARY KEY CLUSTERED ([Id] ASC),
+    FOREIGN KEY ([userId]) REFERENCES [dbo].[Login] ([Id])
+);
+
+
+
+Role
+
+1	1	Admin
+2	2	Washing
+3	3	Repairing
+4	4	Maintainance
+
+=========================================================================================
+
+CREATE TABLE [dbo].[Service] (
+    [ServiceId]   INT           IDENTITY (1, 1) NOT NULL,
+    [ServiceName] NVARCHAR (30) NULL,
+    PRIMARY KEY CLUSTERED ([ServiceId] ASC)
+);
+
+Service
+
+1	Washing
+2	Repairing
+3	Maintainance
+4	Repairing and Washing
+5	Maintainance and Washing
+
+=========================================================================================
+
+CREATE TABLE [dbo].[StautsOfBooking] (
+    [Id]     INT           NOT NULL,
+    [Status] NVARCHAR (10) NULL,
+    PRIMARY KEY CLUSTERED ([Id] ASC)
+);
+
+Status of booking
+
+1	Pending
+2	Accept
+3	Complete
+4	Generated
+
+==========================================================================================
+
+CREATE TABLE [dbo].[Department] (
+    [DeptId]     INT           IDENTITY (1, 1) NOT NULL,
+    [Department] NVARCHAR (20) NOT NULL,
+    PRIMARY KEY CLUSTERED ([DeptId] ASC)
+);
+
+Department
+
+1	Washing
+2	Repairing
+3	Maintainance
+
+=============================================================================================
+
+CREATE TABLE [dbo].[Customers] (
+    [CustomerId] INT            IDENTITY (1, 1) NOT NULL,
+    [Name]       NVARCHAR (30)  NULL,
+    [Address]    NVARCHAR (MAX) NULL,
+    [City]       NVARCHAR (20)  NULL,
+    [PhoneNo]    NVARCHAR (10)  NULL,
+    [EmailId]    NVARCHAR (30)  NULL,
+    [Password]   NVARCHAR (15)  NULL,
+    PRIMARY KEY CLUSTERED ([CustomerId] ASC)
+);
+
+=========================================================
+
+CREATE TABLE [dbo].[Vehicles] (
+    [VehicleId]       INT           IDENTITY (1, 1) NOT NULL,
+    [LicencePlate]    NVARCHAR (10) NULL,
+    [Color]           NVARCHAR (10) NULL,
+    [FuelType]        NVARCHAR (10) NULL,
+    [Brand]           NVARCHAR (15) NULL,
+    [Model]           NVARCHAR (20) NULL,
+    [RegistraionDate] DATE          NULL,
+    [ChassiNo]        NVARCHAR (17) NULL,
+    [EngineNo]        NVARCHAR (17) NULL,
+    [CustomerId]      INT           NULL,
+    PRIMARY KEY CLUSTERED ([VehicleId] ASC),
+    FOREIGN KEY ([CustomerId]) REFERENCES [dbo].[Customers] ([CustomerId])
+);
+
+==========================================================
+
+CREATE TABLE [dbo].[Booking] (
+    [BookingId]    INT            IDENTITY (1, 1) NOT NULL,
+    [VehicleId]    INT            NULL,
+    [ServiceId]    INT            NULL,
+    [BookingDate]  DATE           NULL,
+    [Status]       INT            NULL,
+    [DepartmentId] INT            NULL,
+    [Description]  NVARCHAR (MAX) NULL,
+    PRIMARY KEY CLUSTERED ([BookingId] ASC),
+    FOREIGN KEY ([DepartmentId]) REFERENCES [dbo].[Department] ([DeptId]),
+    FOREIGN KEY ([ServiceId]) REFERENCES [dbo].[Service] ([ServiceId]),
+    FOREIGN KEY ([VehicleId]) REFERENCES [dbo].[Vehicles] ([VehicleId]),
+    FOREIGN KEY ([Status]) REFERENCES [dbo].[StautsOfBooking] ([Id])
+);
+
+===============================================================
+CREATE TABLE [dbo].[BookingHistory] (
+    [HistoryId]    INT IDENTITY (1, 1) NOT NULL,
+    [BookingId]    INT NULL,
+    [VehicleId]    INT NULL,
+    [ServiceId]    INT NULL,
+    [DepartmentId] INT NULL,
+    [MechanicId]   INT NULL,
+    PRIMARY KEY CLUSTERED ([HistoryId] ASC),
+    FOREIGN KEY ([DepartmentId]) REFERENCES [dbo].[Department] ([DeptId]),
+    FOREIGN KEY ([ServiceId]) REFERENCES [dbo].[Service] ([ServiceId]),
+    FOREIGN KEY ([VehicleId]) REFERENCES [dbo].[Vehicles] ([VehicleId]),
+    FOREIGN KEY ([MechanicId]) REFERENCES [dbo].[Mechanic] ([MechanicId])
+);
+
+================================================================
+
+CREATE TABLE [dbo].[Payment] (
+    [PaymentId]   INT         IDENTITY (1, 1) NOT NULL,
+    [BookingId]   INT         NULL,
+    [ServiceId]   INT         NULL,
+    [VehicleId]   INT         NULL,
+    [TotalAmount] DECIMAL (8) NULL,
+    [Date]        DATE        NULL,
+    PRIMARY KEY CLUSTERED ([PaymentId] ASC),
+    FOREIGN KEY ([VehicleId]) REFERENCES [dbo].[Vehicles] ([VehicleId]),
+    FOREIGN KEY ([BookingId]) REFERENCES [dbo].[Booking] ([BookingId]),
+    FOREIGN KEY ([ServiceId]) REFERENCES [dbo].[Service] ([ServiceId])
+);
+
+==================================================================
+
+CREATE TABLE [dbo].[Mechanic] (
+    [MechanicId] INT           IDENTITY (1, 1) NOT NULL,
+    [Name]       NVARCHAR (20) NULL,
+    [MobileNo]   NVARCHAR (10) NULL,
+    [EmailId]    NVARCHAR (30) NULL,
+    [Brand]      NVARCHAR (15) NULL,
+    [DeptId]     INT           NULL,
+    PRIMARY KEY CLUSTERED ([MechanicId] ASC),
+    FOREIGN KEY ([DeptId]) REFERENCES [dbo].[Department] ([DeptId])
+);
+
+Mechanic
+
+1	Akash	9636598740	akash@gmail.com	Honda	1
+2	Vijay 	9865325689	vijay@gmail.com	Kia	2
+3	Mehul	8632147896	mehul@gmail.com	Hero	3

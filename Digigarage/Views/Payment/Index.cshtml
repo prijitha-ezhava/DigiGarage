@@ -1,0 +1,52 @@
+﻿@model IEnumerable<Digigarage.BusinessEntities.PaymentViewModel>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h3 style="font-family:Georgia, 'Times New Roman', Times, serif; ">Payment List</h3>
+<br />
+<table class="table table-striped">
+    <thead style="background-color : #355070; color:white;">
+        <tr>
+            <td>
+                @Html.DisplayNameFor(model => model.Service.ServiceName)
+            </td>
+            <td>
+                @Html.DisplayNameFor(model => model.Vehicle.LicencePlate)
+            </td>
+            <td>
+                @Html.DisplayNameFor(model => model.Vehicle.Customer.Name)
+            </td>
+            <td>
+                @Html.DisplayNameFor(model => model.Date)
+            </td>
+            <td>
+                @Html.DisplayNameFor(model => model.TotalAmount)
+            </td>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody style="color : black; font-size: medium;">
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Service.ServiceName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Vehicle.LicencePlate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Vehicle.Customer.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Date)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TotalAmount)
+                </td>
+            </tr>
+        }
+
+</table>

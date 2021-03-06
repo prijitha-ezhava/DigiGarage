@@ -1,0 +1,85 @@
+﻿@model IEnumerable<Digigarage.BusinessEntities.VehicleViewModel>
+
+@{ ViewBag.Title = "Index"; }
+
+
+<h3 style="font-family:Georgia, 'Times New Roman', Times, serif; ">Vehicle Details</h3>
+<br />
+
+<p>
+    <a href="@Url.Action("Create","Vehicles")" class="btn btn-glow-secondary"><i class="fa fa-plus"></i>  Add New Vehicle</a>
+</p>
+
+
+<table class="table table-striped">
+    <thead style="background-color : #355070; color:white; text-align:center;font-size: 15px;">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.LicencePlate)
+            </th>
+            @*<th>
+                    @Html.DisplayNameFor(model => model.Color)
+                </th>*@
+            <th>
+                @Html.DisplayNameFor(model => model.FuelType)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Brand)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Model)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.RegistraionDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ChassiNo)
+            </th>
+            @*<th>
+                    @Html.DisplayNameFor(model => model.EngineNo)
+                </th>*@
+            <th>
+                @Html.DisplayNameFor(model => model.Customer.Name)
+            </th>
+            <th style="width:10px;">Actions</th>
+        </tr>
+    </thead>
+    <tbody style="color : black; font-size: medium;">
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.LicencePlate)
+                </td>
+                @*<td>
+                        @Html.DisplayFor(modelItem => item.Color)
+                    </td>*@
+                <td>
+                    @Html.DisplayFor(modelItem => item.FuelType)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Brand)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Model)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.RegistraionDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ChassiNo)
+                </td>
+                @*<td>
+                        @Html.DisplayFor(modelItem => item.EngineNo)
+                    </td>*@
+                <td>
+                    @Html.DisplayFor(modelItem => item.Customer.Name)
+                </td>
+                <td>
+                    <a href="@Url.Action("Edit","Vehicles", new { id = item.VehicleId})" class="btn" style="background-color:#023e8a; color:white; padding: 2px 2px;"><i class="fa fa-edit"></i>Edit</a>
+                    <a href="@Url.Action("Details","Vehicles", new { id = item.VehicleId})" class="btn" style="background-color:#2d6a4f; color:white; padding: 2px 1px;"><i class="fa fa-list"></i>Details</a>
+                </td>
+            </tr>
+}
+    </tbody>
+</table>

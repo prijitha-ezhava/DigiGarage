@@ -1,0 +1,32 @@
+﻿@model IEnumerable<Digigarage.BusinessEntities.ServiceViewModel>
+
+@{ ViewBag.Title = "Index"; }
+
+<h3 style="font-family:Georgia, 'Times New Roman', Times, serif; ">Services List</h3>
+
+
+<br />
+
+
+
+<table class="table table-striped" style="width:50%; align-content :center;">
+    <thead style="background-color : #355070; color:white;">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ServiceName)
+            </th>
+
+        </tr>
+    </thead>
+    <tbody style="color : black; font-size: medium;">
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    <i class="fa fa-check-square"></i>&emsp; @Html.DisplayFor(modelItem => item.ServiceName)
+                </td>
+            </tr>
+        }
+    </tbody>
+
+</table>
